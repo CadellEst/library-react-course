@@ -11,7 +11,7 @@ return(
             <div className="header__description">
                 <h1>Britain's most awarded online library platform</h1>
                 <h2>Find the book you need with <span className="purple">Library</span></h2>
-                <Link to="#features">
+                <Link to="/books">
                     <button className="btn">Browse books</button>
                 </Link>
             </div>
